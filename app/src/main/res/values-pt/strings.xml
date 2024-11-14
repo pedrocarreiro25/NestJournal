@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Minhas Notas</string>
+    <string name="save">Guardar</string>
+    <string name="note">Nota</string>
+    <string name="new_note">Nova Nota</string>
+    <string name="all_notes">Notas</string>
+    <string name="list_of_notes">As Minhas Notas</string>
+    <string name="favourites">Favoritos</string>
+    <string name="favourite_note">As Minhas Notas Favoritas</string>
+    <string name="date">Data (dd/mm/aaaa)</string>
+    <string name="deleted_notes">Apagadas</string>
+    <string name="edit_note">Editar Nota</string>
+    <string name="title">Titulo</string>
+
+</resources>
